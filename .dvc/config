@@ -3,4 +3,4 @@
 ['remote "local_remote"']
     url = ../../local_remote/exercise-1
 ['remote "googledriver"']
-    url = ../gdrive:1T-mn4UWO_xs4q9xG1FqJPQUQ9X9kF-cO
+    url = gdrive://1T-mn4UWO_xs4q9xG1FqJPQUQ9X9kF-cO
