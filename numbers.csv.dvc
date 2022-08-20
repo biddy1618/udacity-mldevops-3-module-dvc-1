@@ -1,0 +1,4 @@
+outs:
+- md5: a5fdee106ccbbcf89c6e503e5cd14769
+  size: 25
+  path: numbers.csv
