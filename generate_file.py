@@ -17,5 +17,5 @@ if __name__ == '__main__':
     except AssertionError:
         print('Provide positive number')
 
-    numbers = pd.Series(data = {'numbers': range(1, n + 1)})
-    numbers.to_csv('numbers.csv')    
+    numbers = pd.Series(data = list(range(1, n + 1)), name = 'numbers')
+    numbers.to_csv('numbers.csv', index = False)    
